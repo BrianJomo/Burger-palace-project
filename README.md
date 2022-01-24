@@ -9,6 +9,6 @@ click the green code button in the repo and then download the files or you can c
 To access this file;
 Open the index.html file in chrome or any other trusted browser and see the project
 
-You can also acess it through this link:
+You can also acess it through this link: <a href="https://brianjomo.github.io/Burger-palace-project/"</a>
 
 This page was created by Brian Jomo.brian.jomo@student.moringaschool.com
