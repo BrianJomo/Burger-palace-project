@@ -1,33 +1,33 @@
 body {
-  align-items: center;
-  width: 900px;
-  font-family: 'poppins';
-
-}
-
-ul {
-  list-style-type: none;
+  font-family: 'Poppins';
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  background-color: white;
-  font-size: 25px;
-
 }
 
-li {
-  float: left;
+#header {
+  background: linear-gradient(100deg, #fff 50%, #F6B400 50%);
+  height: 700px;
 }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  color: black;
+.logo {
+  font-size: 50px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
 }
 
+.logo span {
+  color: #F6B400;
+}
+
+.logo p {
+  font-family: 'lobster';
+}
+
+.nav-top {
+  position: relative;
+  margin-left: 265px;
 #baga {
   margin-top: 20px;
 }
