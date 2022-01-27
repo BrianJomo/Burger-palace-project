@@ -1,14 +1,68 @@
-# THE BURGER PALACE PROJECT
+# Buger Palace
 
-This project involves designing a landinging page for a restaurant. The landing page contains 
-a menu, buttons,several images and a form.
+##### By Brian Jomo
+### This is a restaurant website designed on 22/1/2022.
 
-Setup;
-click the green code button in the repo and then download the files or you can clone the repo using Git and access it through the terminal.
+## Table of Content
 
-To access this file;
-Open the index.html file in chrome or any other trusted browser and see the project
++ [Description](#description)
++ [Installation Requirement](#Installation)
++ [Technology Used](#technology-used)
++ [Reference](#reference)
++ [Licence](#licence)
++ [Authors Info](#author-Info)
 
-You can also acess it through this link: https://brianjomo.github.io/Burger-palace-project/
+## Description
+<p>This is a mordern and up to date website for a restaurant named Burger Palace. It contains buttons, a menu and various images.</p>
 
-This page was created by Brian Jomo.brian.jomo@student.moringaschool.com
+## Installation
+<p> To have access to the website click on this link:  https://brianjomo.github.io/Burger-palace-project/ .</P>
+
+
+
+### Requirements
+
+* Either a computer,phone,tablet or an Ipad
+
+* An access to the Internet
+
+### Installation Process
+<p>To have access to this website you can just click on this link: https://brianjomo.github.io/Burger-palace-project/ and you will be directed to the website.</p>
+
+## Technology Used
+* HTML - which was used to build the structure of the pages.
+
+* CSS - which was used to style the pages.
+
+## Reference
+* Materialize CSS
+
+
+## Licence
+
+MIT License
+
+Copyright (c) [2022] [Brain Jomo]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+## Authors Info
+
+Email – [Brian Jomo](brian.jomo@student.moringaschool.com)
