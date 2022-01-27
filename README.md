@@ -65,4 +65,4 @@ SOFTWARE.
 
 ## Authors Info
 
-Email – [Brian Jomo](brian.jomo@student.moringaschool.com)
+Email – brian.jomo@student.moringaschool.com
